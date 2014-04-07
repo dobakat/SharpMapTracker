@@ -1,0 +1,9 @@
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\TibiaCastDownloader\bin\Debug\tibiacast-downloader.exe
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\TibiaCastDownloader\bin\Debug\tibiacast-downloader.pdb
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\TibiaCastDownloader\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\TibiaCastDownloader\obj\x86\Debug\tibiacast-downloader.exe
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\TibiaCastDownloader\obj\x86\Debug\tibiacast-downloader.pdb
+X:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\TibiaCastDownloader\bin\Debug\tibiacast-downloader.exe
+X:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\TibiaCastDownloader\bin\Debug\tibiacast-downloader.pdb
+X:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\TibiaCastDownloader\obj\x86\Debug\tibiacast-downloader.exe
+X:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\TibiaCastDownloader\obj\x86\Debug\tibiacast-downloader.pdb

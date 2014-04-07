@@ -1,0 +1,24 @@
+C:\Users\Joe\Desktop\SharpMapTracker Source\TibiaCastDownloader\bin\Release\tibiacast-downloader.exe
+C:\Users\Joe\Desktop\SharpMapTracker Source\TibiaCastDownloader\bin\Release\tibiacast-downloader.pdb
+C:\Users\Joe\Desktop\SharpMapTracker Source\TibiaCastDownloader\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\SharpMapTracker Source\TibiaCastDownloader\obj\x86\Release\tibiacast-downloader.exe
+C:\Users\Joe\Desktop\SharpMapTracker Source\TibiaCastDownloader\obj\x86\Release\tibiacast-downloader.pdb
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\TibiaCastDownloader\bin\Release\tibiacast-downloader.exe
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\TibiaCastDownloader\bin\Release\tibiacast-downloader.pdb
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\TibiaCastDownloader\obj\x86\Release\ResolveAssemblyReference.cache
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\TibiaCastDownloader\obj\x86\Release\tibiacast-downloader.exe
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\TibiaCastDownloader\obj\x86\Release\tibiacast-downloader.pdb
+X:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\TibiaCastDownloader\bin\Release\tibiacast-downloader.exe
+X:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\TibiaCastDownloader\bin\Release\tibiacast-downloader.pdb
+X:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\TibiaCastDownloader\obj\x86\Release\tibiacast-downloader.exe
+X:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\TibiaCastDownloader\obj\x86\Release\tibiacast-downloader.pdb
+W:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\TibiaCastDownloader\bin\Release\tibiacast-downloader.exe
+W:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\TibiaCastDownloader\bin\Release\tibiacast-downloader.pdb
+W:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\TibiaCastDownloader\obj\x86\Release\tibiacast-downloader.exe
+W:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\TibiaCastDownloader\obj\x86\Release\tibiacast-downloader.pdb
+W:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\TibiaCastDownloader\obj\x86\Release\TibiaCastDownloader.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\TibiaCastDownloader\bin\Release\tibiacast-downloader.exe
+C:\Users\Joseph\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\TibiaCastDownloader\bin\Release\tibiacast-downloader.pdb
+C:\Users\Joseph\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\TibiaCastDownloader\obj\x86\Release\TibiaCastDownloader.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\TibiaCastDownloader\obj\x86\Release\tibiacast-downloader.exe
+C:\Users\Joseph\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\TibiaCastDownloader\obj\x86\Release\tibiacast-downloader.pdb

@@ -1,0 +1,50 @@
+C:\Users\Joe\Desktop\SharpMapTracker Source\SharpMapTrackerServer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\SharpMapTrackerServer.exe
+C:\Users\Joe\Desktop\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\SharpMapTrackerServer.pdb
+C:\Users\Joe\Desktop\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\OpenTibiaCommons.dll
+C:\Users\Joe\Desktop\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\SharpTibiaProxy.dll
+C:\Users\Joe\Desktop\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Joe\Desktop\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\OpenTibiaCommons.pdb
+C:\Users\Joe\Desktop\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\SharpTibiaProxy.pdb
+C:\Users\Joe\Desktop\SharpMapTracker Source\SharpMapTrackerServer\obj\x86\Release\SharpMapTrackerServer.exe
+C:\Users\Joe\Desktop\SharpMapTracker Source\SharpMapTrackerServer\obj\x86\Release\SharpMapTrackerServer.pdb
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\SharpMapTrackerServer.exe
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\SharpMapTrackerServer.pdb
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\OpenTibiaCommons.dll
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\SharpTibiaProxy.dll
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\BouncyCastle.Crypto.dll
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\OpenTibiaCommons.pdb
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\SharpTibiaProxy.pdb
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\obj\x86\Release\ResolveAssemblyReference.cache
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\obj\x86\Release\SharpMapTrackerServer.exe
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\obj\x86\Release\SharpMapTrackerServer.pdb
+W:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\SharpMapTrackerServer.exe
+W:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\SharpMapTrackerServer.pdb
+W:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\OpenTibiaCommons.dll
+W:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\SharpTibiaProxy.dll
+W:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\BouncyCastle.Crypto.dll
+W:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\OpenTibiaCommons.pdb
+W:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\SharpTibiaProxy.pdb
+W:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\obj\x86\Release\SharpMapTrackerServer.exe
+W:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\obj\x86\Release\SharpMapTrackerServer.pdb
+X:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\SharpMapTrackerServer.exe
+X:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\SharpMapTrackerServer.pdb
+X:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\OpenTibiaCommons.dll
+X:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\SharpTibiaProxy.dll
+X:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\BouncyCastle.Crypto.dll
+X:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\OpenTibiaCommons.pdb
+X:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\SharpTibiaProxy.pdb
+X:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\obj\x86\Release\SharpMapTrackerServer.exe
+X:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\obj\x86\Release\SharpMapTrackerServer.pdb
+X:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\obj\x86\Release\SharpMapTrackerServer.csprojResolveAssemblyReference.cache
+W:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\obj\x86\Release\SharpMapTrackerServer.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\SharpMapTrackerServer.exe
+C:\Users\Joseph\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\SharpMapTrackerServer.pdb
+C:\Users\Joseph\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\OpenTibiaCommons.dll
+C:\Users\Joseph\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\SharpTibiaProxy.dll
+C:\Users\Joseph\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Joseph\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\OpenTibiaCommons.pdb
+C:\Users\Joseph\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\bin\Release\SharpTibiaProxy.pdb
+C:\Users\Joseph\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\obj\x86\Release\SharpMapTrackerServer.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\obj\x86\Release\SharpMapTrackerServer.exe
+C:\Users\Joseph\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpMapTrackerServer\obj\x86\Release\SharpMapTrackerServer.pdb

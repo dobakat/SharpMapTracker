@@ -1,0 +1,46 @@
+C:\Users\Joe\Desktop\SharpMapTracker Source\SharpTibiaProxy\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\SharpMapTracker Source\SharpTibiaProxy\obj\Release\SharpTibiaProxy.Util.ClientChooser.resources
+C:\Users\Joe\Desktop\SharpMapTracker Source\SharpTibiaProxy\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Joe\Desktop\SharpMapTracker Source\SharpTibiaProxy\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Joe\Desktop\SharpMapTracker Source\SharpTibiaProxy\bin\Release\SharpTibiaProxy.dll
+C:\Users\Joe\Desktop\SharpMapTracker Source\SharpTibiaProxy\bin\Release\SharpTibiaProxy.pdb
+C:\Users\Joe\Desktop\SharpMapTracker Source\SharpTibiaProxy\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Joe\Desktop\SharpMapTracker Source\SharpTibiaProxy\obj\Release\SharpTibiaProxy.dll
+C:\Users\Joe\Desktop\SharpMapTracker Source\SharpTibiaProxy\obj\Release\SharpTibiaProxy.pdb
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\bin\Release\SharpTibiaProxy.dll
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\bin\Release\SharpTibiaProxy.pdb
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\bin\Release\BouncyCastle.Crypto.dll
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\obj\Release\ResolveAssemblyReference.cache
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\obj\Release\SharpTibiaProxy.Util.ClientChooser.resources
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\obj\Release\GenerateResource.read.1.tlog
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\obj\Release\GenerateResource.write.1.tlog
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\obj\Release\SharpTibiaProxy.dll
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\obj\Release\SharpTibiaProxy.pdb
+W:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\bin\Release\SharpTibiaProxy.dll
+W:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\bin\Release\SharpTibiaProxy.pdb
+W:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\bin\Release\BouncyCastle.Crypto.dll
+W:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\obj\Release\SharpTibiaProxy.Util.ClientChooser.resources
+W:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\obj\Release\SharpTibiaProxy.dll
+W:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\obj\Release\SharpTibiaProxy.pdb
+X:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\obj\Release\SharpTibiaProxy.csprojResolveAssemblyReference.cache
+X:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\obj\Release\SharpTibiaProxy.Util.ClientChooser.resources
+X:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\obj\Release\SharpTibiaProxy.csproj.GenerateResource.Cache
+X:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\obj\Release\SharpTibiaProxy.dll
+X:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\obj\Release\SharpTibiaProxy.pdb
+X:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\bin\Release\SharpTibiaProxy.dll
+X:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\bin\Release\SharpTibiaProxy.pdb
+X:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\bin\Release\BouncyCastle.Crypto.dll
+W:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\obj\Release\SharpTibiaProxy.csprojResolveAssemblyReference.cache
+W:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\obj\Release\SharpTibiaProxy.csproj.GenerateResource.Cache
+C:\Users\Joseph\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\bin\Release\SharpTibiaProxy.dll
+C:\Users\Joseph\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\bin\Release\SharpTibiaProxy.pdb
+C:\Users\Joseph\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Joseph\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\obj\Release\SharpTibiaProxy.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\obj\Release\SharpTibiaProxy.Util.ClientChooser.resources
+C:\Users\Joseph\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\obj\Release\SharpTibiaProxy.csproj.GenerateResource.Cache
+C:\Users\Joseph\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\obj\Release\SharpTibiaProxy.dll
+C:\Users\Joseph\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\obj\Release\SharpTibiaProxy.pdb
+C:\Users\Joseph\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\obj\Release\Util\ClientChooserWPF.baml
+C:\Users\Joseph\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\obj\Release\Util\ClientChooserWPF.g.cs
+C:\Users\Joseph\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\obj\Release\SharpTibiaProxy_MarkupCompile.cache
+C:\Users\Joseph\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\SharpTibiaProxy\obj\Release\SharpTibiaProxy.g.resources

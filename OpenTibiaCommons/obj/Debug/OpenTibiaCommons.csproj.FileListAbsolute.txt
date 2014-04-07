@@ -1,0 +1,11 @@
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\OpenTibiaCommons\bin\Debug\OpenTibiaCommons.dll
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\OpenTibiaCommons\bin\Debug\OpenTibiaCommons.pdb
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\OpenTibiaCommons\bin\Debug\SharpTibiaProxy.dll
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\OpenTibiaCommons\bin\Debug\BouncyCastle.Crypto.dll
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\OpenTibiaCommons\bin\Debug\SharpTibiaProxy.pdb
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\OpenTibiaCommons\obj\Debug\ResolveAssemblyReference.cache
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\OpenTibiaCommons\obj\Debug\OpenTibiaCommons.dll
+Y:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\OpenTibiaCommons\obj\Debug\OpenTibiaCommons.pdb
+X:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\OpenTibiaCommons\obj\Debug\OpenTibiaCommons.csprojResolveAssemblyReference.cache
+X:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\OpenTibiaCommons\obj\Debug\OpenTibiaCommons.dll
+X:\Windows Stuff\Documents\Visual Studio 2010\Projects\SharpMapTracker Source\OpenTibiaCommons\obj\Debug\OpenTibiaCommons.pdb
