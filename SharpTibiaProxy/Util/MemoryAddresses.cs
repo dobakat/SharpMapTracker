@@ -332,7 +332,7 @@ namespace SharpTibiaProxy.Util
                 ClientMultiClient = client.BaseAddress + 0x13C9C0;
 
                 ClientStatus = client.BaseAddress + 0x3CBC3C;
-
+                
                 PlayerGoX = client.BaseAddress + 0x557030;
                 PlayerGoY = client.BaseAddress + 0x557028;
                 PlayerGoZ = client.BaseAddress + 0x557004;
@@ -359,6 +359,27 @@ namespace SharpTibiaProxy.Util
                 PlayerGoZ = client.BaseAddress + 0x557004;
 
                 ClientBattleListStart = client.BaseAddress + 0x5AC558;
+            }
+            else if (client.Version == ClientVersion.Version1038)
+            {
+                ClientRsa = client.BaseAddress + 0x33A450;
+                ClientServerStart = client.BaseAddress + 0x41C578;
+                ClientServerEnd = client.BaseAddress + 0x41C56C;
+                ClientServerStep = 0x38;
+                ClientServerDistanceHostname = 0x04;
+                ClientServerDistanceIP = 0x20;
+                ClientServerDistancePort = 0x30;
+                ClientServerMax = 10;
+                ClientSelectedCharacter = client.BaseAddress + 0x55F4CC;
+                ClientMultiClient = client.BaseAddress + 0x141350;
+
+                ClientStatus = client.BaseAddress + 0x3D6D80;
+
+                PlayerGoX = client.BaseAddress + 0x562030;
+                PlayerGoY = client.BaseAddress + 0x562028;
+                PlayerGoZ = client.BaseAddress + 0x562004;
+
+                ClientBattleListStart = client.BaseAddress + 0x5B80E8;
             }
             else
             {
